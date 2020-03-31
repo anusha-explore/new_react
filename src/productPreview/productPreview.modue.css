@@ -1,0 +1,7 @@
+.ProductPreview {
+    width: 100%;
+}
+  
+.ProductPreview > img {
+    width: 100%;
+}

@@ -1,0 +1,16 @@
+.MainController {
+  padding: 4px 12px;
+  margin-top: 60px;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.ProductPreview {
+  width: 50%;
+}
+
+.ProductData {
+  width: 50%;
+}
